@@ -1,0 +1,8 @@
+/Users/nickchimedbavuu/Desktop/C#/puzzles/bin/Debug/netcoreapp1.1/puzzles.deps.json
+/Users/nickchimedbavuu/Desktop/C#/puzzles/bin/Debug/netcoreapp1.1/puzzles.runtimeconfig.json
+/Users/nickchimedbavuu/Desktop/C#/puzzles/bin/Debug/netcoreapp1.1/puzzles.runtimeconfig.dev.json
+/Users/nickchimedbavuu/Desktop/C#/puzzles/bin/Debug/netcoreapp1.1/puzzles.dll
+/Users/nickchimedbavuu/Desktop/C#/puzzles/bin/Debug/netcoreapp1.1/puzzles.pdb
+/Users/nickchimedbavuu/Desktop/C#/puzzles/obj/Debug/netcoreapp1.1/puzzles.AssemblyInfo.cs
+/Users/nickchimedbavuu/Desktop/C#/puzzles/obj/Debug/netcoreapp1.1/puzzles.dll
+/Users/nickchimedbavuu/Desktop/C#/puzzles/obj/Debug/netcoreapp1.1/puzzles.pdb
